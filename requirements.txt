@@ -1,0 +1,9 @@
+streamlit
+kagglehub
+pandas
+plotly
+scikit-learn==1.6.1
+joblib
+pyarrow
+fastapi>=0.110,<1
+uvicorn[standard]>=0.27,<1
